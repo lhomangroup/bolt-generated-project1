@@ -1,0 +1,16 @@
+[
+      {
+        "id": 1,
+        "title": "Appartement moderne à Paris",
+        "description": "Appartement de 3 pièces situé au cœur de Paris.",
+        "price": 1500,
+        "address": "1 rue de la Paix, 75001 Paris"
+      },
+      {
+        "id": 2,
+        "title": "Maison avec jardin à Lyon",
+        "description": "Maison de 4 pièces avec jardin spacieux à Lyon.",
+        "price": 1200,
+        "address": "2 avenue de la République, 69001 Lyon"
+      }
+    ]
